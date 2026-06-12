@@ -17,7 +17,9 @@ A VSCode-inspired Neovim configuration built on [kickstart.nvim](https://github.
 ## Installation
 
 ```bash
-git clone https://github.com/ChrisTitusTech/neovim ~/.config/nvim
+Inspired by ChrisTitusTech nvim config, I added LazyVim PM wasn't added before, and fixed markdown flow
+git clone https://github.com/ChrisTitusTech/neovim ~/.config/nvim -- This is the original repo for the configs
+git clone https://github.com/mo7hamd2003/Configs ~/.config/nvim -- This my repo, added multipil fixes and keymaps and removed AI completion(You can still add this feature)
 nvim  # lazy.nvim will auto-install all plugins on first launch
 ```
 
